@@ -1,0 +1,15 @@
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\bin\Debug\net10.0\Lab08_ErkinTitov.exe
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\bin\Debug\net10.0\Lab08_ErkinTitov.deps.json
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\bin\Debug\net10.0\Lab08_ErkinTitov.runtimeconfig.json
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\bin\Debug\net10.0\Lab08_ErkinTitov.dll
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\bin\Debug\net10.0\Lab08_ErkinTitov.pdb
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\Lab08_ErkinTitov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\Lab08_ErkinTitov.AssemblyInfoInputs.cache
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\Lab08_ErkinTitov.AssemblyInfo.cs
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\Lab08_ErkinTitov.csproj.CoreCompileInputs.cache
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\Lab08_ErkinTitov.dll
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\refint\Lab08_ErkinTitov.dll
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\Lab08_ErkinTitov.pdb
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\Lab08_ErkinTitov.genruntimeconfig.cache
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\ref\Lab08_ErkinTitov.dll
+C:\Users\Student_13\Documents\LAb08_ErkinTitov\obj\Debug\net10.0\Lab08_ErkinTitov.sourcelink.json
